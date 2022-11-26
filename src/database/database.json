@@ -1,0 +1,14 @@
+{
+    "courses": {
+        "totalCourses": 1,
+        "coursesList": [
+            {
+                "idCourse": 1,
+                "title": "1",
+                "description": "1",
+                "url": "1",
+                "classes": []
+            }
+        ]
+    }
+}
